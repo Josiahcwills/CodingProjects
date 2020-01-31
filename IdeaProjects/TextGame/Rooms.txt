@@ -1,0 +1,6 @@
+0@Outside The Forest@You are walking down a long road on a summer night.@The road continues towards a gate leading into the forest towards the East.@-1@-1@2@-1@false@
+1@The Iron Gate@You passed through the gate. Towards the east all you see is trees and darkness.@Towards the north you can see a small flame@3@-1@4@1@false@
+3@Camp Fire@You found a camp fire within a small clearing of trees.@Someone has been here recently it would be smart to search near the fire@-1@2@-1@-1@false@
+4@Middle Forest@It appears to be in the middle of the forest.@The moonlight helps you notice scorch marks on the trees. You can see more marks to the east.@-1@-1@5@2@false@
+5@Scorched Forest@The trees appear to be cleared by flames with charred trees surrounding the area.@You notice the scorched remains of a fallen traveler. There appears to be a path further to the east.@-1@-1@6@4@false@
+6@End of the Forest@You've ran to the end of the woods.@You wonder if the woods is hiding anything@-1@-1@-1@5@false@

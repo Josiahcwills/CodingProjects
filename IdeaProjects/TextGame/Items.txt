@@ -1,0 +1,4 @@
+Sword@It's dangerous to go alone. Take this! Equip to increase attack@10@0@0@0@
+Shield@A fire resistant shield. Equip to increase defense@0@0@5@1@
+Potion@A healing potion, heals 20HP@0@15@0@2@
+Cloth@a@0@0@0@10@
